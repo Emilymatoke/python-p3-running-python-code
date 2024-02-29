@@ -5,3 +5,9 @@ print("Hello World!") #prints output
 
 print ("My name is Emily.")
 print("I love the sun!")
+
+#For paragraphs:
+
+print("Hello World!", end=" ")
+print("My name is Emily.", end="!! ")
+print("I love the sun!", end="!!!/n")
